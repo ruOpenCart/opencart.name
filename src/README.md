@@ -16,10 +16,6 @@ actions:
     link: /download
     type: primary
 
-  - text: Документация
-    icon: book
-    link: /docs/
-
   - text: Демо
     icon: laptop-code
     link: /demo
