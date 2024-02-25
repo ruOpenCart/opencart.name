@@ -1,12 +1,13 @@
 ---
 title: Установка
-icon: wrench
-order: 20
+icon: screwdriver-wrench
+index: false
 category:
+  - Документация
   - Администрирование
   - Установка
 prev: false
 next: false
 ---
 
-## Установка опенкарт
+<Catalog />
